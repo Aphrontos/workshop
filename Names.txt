@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hans Dylan Lao - Hans
+=======
+Hans Dylan Lao - Hans
+>>>>>>> dev
